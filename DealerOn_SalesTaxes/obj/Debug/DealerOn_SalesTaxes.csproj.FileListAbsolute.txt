@@ -1,0 +1,6 @@
+/Users/trevorvansaun/Projects/DealerOn_SalesTaxes/DealerOn_SalesTaxes/bin/Debug/DealerOn_SalesTaxes.exe
+/Users/trevorvansaun/Projects/DealerOn_SalesTaxes/DealerOn_SalesTaxes/bin/Debug/DealerOn_SalesTaxes.pdb
+/Users/trevorvansaun/Projects/DealerOn_SalesTaxes/DealerOn_SalesTaxes/obj/Debug/DealerOn_SalesTaxes.csprojAssemblyReference.cache
+/Users/trevorvansaun/Projects/DealerOn_SalesTaxes/DealerOn_SalesTaxes/obj/Debug/DealerOn_SalesTaxes.csproj.CoreCompileInputs.cache
+/Users/trevorvansaun/Projects/DealerOn_SalesTaxes/DealerOn_SalesTaxes/obj/Debug/DealerOn_SalesTaxes.exe
+/Users/trevorvansaun/Projects/DealerOn_SalesTaxes/DealerOn_SalesTaxes/obj/Debug/DealerOn_SalesTaxes.pdb
